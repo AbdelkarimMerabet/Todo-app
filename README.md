@@ -5,7 +5,10 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 # Files
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+
+Stack![1](https://github.com/AbdelkarimMerabet/Todo-app/assets/95025226/6450b015-9faf-496d-9c78-4ca687cc54c9)
+
+Edit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
 
