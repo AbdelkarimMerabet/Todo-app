@@ -1,0 +1,16 @@
+.red-color{
+  color: red;
+  
+}
+input{
+  padding-left: 15px;
+  width: 100%;
+  height: 40px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+
+.full{
+  width: 100%;
+  height: 100%;
+}
