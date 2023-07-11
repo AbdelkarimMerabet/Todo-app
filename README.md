@@ -31,18 +31,25 @@ Run it
 
 ## Screenshots
 
- 1. Add Task 
+ 1. Add Task
+    
  ![1](https://github.com/AbdelkarimMerabet/Todo-app/assets/95025226/c57c1f30-7ec7-4aef-8adf-101c1becb09c)
 
- 2. Tasks
+
+ 3. Tasks
+
  ![2](https://github.com/AbdelkarimMerabet/Todo-app/assets/95025226/57c717c8-5897-44e0-b609-9494d7744af4)
 
- 3. Tasks Complete (click the  task to completed )
+
+ 4. Tasks Complete (click the  task to completed )
+ 
  ![3](https://github.com/AbdelkarimMerabet/Todo-app/assets/95025226/68ef529b-8cff-492b-9929-01387e6d261a)
 
- 4. Tasks Active
+ 5. Tasks Active
+ 
  ![4](https://github.com/AbdelkarimMerabet/Todo-app/assets/95025226/88ed317b-052a-43ac-8fdb-5ef8700b625c)
 
  
- 5. Tasks Complete
+ 6. Tasks Complete
+
  ![6](https://github.com/AbdelkarimMerabet/Todo-app/assets/95025226/247618a6-2cec-4b98-a001-172e6520181b)
